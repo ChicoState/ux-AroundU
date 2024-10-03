@@ -23,21 +23,7 @@
 
 **Executive Summary**
 
-**Competitive analysis** revealed several opportunities to meet user needs:
-- **Local events discovery**: Users struggle to find real-time events nearby that match their interests.
-- **User control**: Apps often provide limited customization and error recovery options.
 
-**Heuristic evaluation** identified strengths in site navigation, but weaknesses in:
-- **User control** during important actions like event booking.
-- **Error prevention** and recovery when mistakes are made.
-
-**New personas and scenarios** highlighted:
-- The need for a simple, accessible interface.
-- A platform that easily connects users to events based on location and preferences.
-
-**Sketches and diagrams** show the following design features:
-- **Improved event filtering** for better personalization.
-- **Error handling mechanisms** to enhance user experience and prevent mistakes.
 
 [Full phase I report](phaseI/)
 
