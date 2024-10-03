@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+AroundU is an app that allows users to browse upcoming and ongoing local events. It shows the time, date, and distance of events relative to the user. The app is designed to help users find activities and connect with others in their community.
 
 ## Methods
 
