@@ -7,10 +7,11 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+From class notes: Research methods = Competitive Analyis and Hueristic Evaluation
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+ 
 
 ## Conclusions
 
