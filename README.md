@@ -1,6 +1,6 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# Around-U
+# AroundU
 
 AroundU is an app that allows users to browse upcoming and ongoing local events. It shows the time, date, and distance of events relative to the user. The app is designed to help users find activities and connect with others in their community.
 
