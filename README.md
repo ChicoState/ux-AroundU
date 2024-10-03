@@ -27,7 +27,7 @@
 
 * **Heuristic Evaluation**: The evaluation found that **TripAdvisor** excels at guiding users through the site but lacks **error prevention and assistance** during crucial moments.
 
-* **User Preferences**: Users want **a simple and intuitive experience**, where the application helps them navigate seamlessly, particularly during critical actions such as booking or checkout. They also desire **cross-platform access**, ensuring the app is available on various devices.
+* **User Preferences**: Users want **a simple and intuitive experience**, where the application helps them navigate seamlessly, particularly during critical actions such as booking or checkout. 
 
 * **Personas and Scenarios**: Confirmed that users value **clear navigation** and **robust error support**, emphasizing ease of use in their day-to-day engagement with local events.
 
