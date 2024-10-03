@@ -15,7 +15,7 @@ Through competitive analysis, our team found that there are several products in 
 
 During our hueristic evaluation, we found that TripAdvisor scored very well in key areas such as 'visibility of system status' with 9, 'match between system and the real world' with 9, and 'aesthetic and minimalist design' with 9 thanks to its clear navigation, layout, and simple design. In order for AroundU to be a comptetitor, we found that it will also need to be very intuitive for the user, with a aesthetic and pleasent design.
 
-Personas and scenarios provided further insight into why users would use AroundU. We found that users want easy-to-use features that allow 
+Personas and scenarios provided further insight into why users would use AroundU. We found that users want easy-to-use features that allow them to find a wide range of unique events around them.
 
 ## Conclusions
 
