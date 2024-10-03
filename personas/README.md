@@ -61,5 +61,5 @@ It's a Friday night, and Jack wants to go out after a long week of school and ho
 #### Scenario #2: Planning a Family-Friendly Day at the Farmer’s Market  
 It's Friday evening, and after a long week of meetings and late work, Julia is eager to spend quality time with her family over the weekend. She’s looking for something low-key but enjoyable, where she can unwind with her husband and kids. Julia opens her favorite event discovery app and finds a local farmer’s market offering live music, fresh food stalls, and craft booths. It’s not too crowded, and it gives her kids a chance to enjoy the outdoors while she and her husband try locally-made treats. Julia adds the event to her calendar and feels relieved, knowing she’s planned a fun, stress-free outing for Saturday.
 
-#### Scenario #3:   
+#### Scenario #3: Cruz finds a soccer game to watch
 After a long day filled with meetings and project planning, Cruz is ready to unwind. On this particular evening, he decides to grab a burrito from his favorite local spot, known for its affordability and fast service, pick up a cold drink, and head home. Once he’s settled in, he puts on his most comfortable soccer jersey, kicks back on the couch, and tunes in to a soccer match in the background.
