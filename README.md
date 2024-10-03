@@ -6,12 +6,12 @@
 
 ## UX Team Members
 
-[Jesus Velazquez](!!!URL to Jesus's published portfolio!!!) - Contributed to early sketches, conducted analysis and evaluations, and worked on wireframes, prototypes, and script development.
-[Tyler Rodgers](!!!URL to Tyler's published portfolio!!!) - Participated in analysis, helped with wireframe creation, and supported prototype and script design.
-[Jameson White](!!!URL to Jameson's published portfolio!!!) - Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building and scriptwriting.
-Jesus Velazquez: Contributed to early sketches, conducted analysis and evaluations, and worked on wireframes, prototypes, and script development.
-Tyler Rodgers: Participated in analysis, helped with wireframe creation, and supported prototype and script design.
-Jameson White: Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building and scriptwriting.
+*[Jesus Velazquez](!!!URL to Jesus's published portfolio!!!) - Contributed to early sketches, conducted analysis and evaluations, and worked on wireframes, prototypes, and script development.
+*[Tyler Rodgers](!!!URL to Tyler's published portfolio!!!) - Participated in analysis, helped with wireframe creation, and supported prototype and script design.
+*[Jameson White](!!!URL to Jameson's published portfolio!!!) - Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building and scriptwriting.
+*Jesus Velazquez: Contributed to early sketches, conducted analysis and evaluations, and worked on wireframes, prototypes, and script development.
+*Tyler Rodgers: Participated in analysis, helped with wireframe creation, and supported prototype and script design.
+*Jameson White: Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building and scriptwriting.
 
 # User-Centered Design Artifacts
  
