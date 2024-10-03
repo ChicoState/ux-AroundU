@@ -8,8 +8,7 @@
 
 * [Jesus Velazquez](https://jesus-portfolio-link.com) - Contributed to early sketches, conducted analysis and evaluations, and worked on wireframes, prototypes, and script development.
 * [Tyler Rodgers](https://tyler-portfolio-link.com) - Participated in analysis, helped with wireframe creation, and supported prototype and script design.
-* [Jameson White](https://jameson-portfolio-link.com) - Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building and scriptwriting.
-
+* [Jameson White](https://jameson-portfolio-link.com) - Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building
 
 # User-Centered Design Artifacts
  
