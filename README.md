@@ -23,11 +23,15 @@
 
 **Executive Summary**
 
-* **Competitive Analysis**: Reviewed **TripAdvisor**, noting its **minimalist** app/website design, **effective navigation**, and ease of use. However, it offers **limited user control** during checkout and lacks sufficient **error handling**.  
-* **Heuristic Evaluation**: Highlighted **TripAdvisor’s** strong site navigation but exposed weaknesses in **error prevention** and **recovery**.  
-* **User Preferences**: Users desire **more control** and **assistance** during critical moments, especially at checkout.  
-* **Personas and Scenarios**: Confirmed the importance of **clear navigation** and **robust error support** for users.  
-* **Sketches and Diagrams**: Implemented designs with **enhanced user control** and better **error handling mechanisms**.
+* **Competitive Analysis**: **TripAdvisor** offers a **minimalist app/website** with a user-friendly design that makes it easy for people to find local events and information. It’s effective in displaying where users are on the site and presenting clear information. However, the app does not provide enough **control during the checkout process** and could offer **better support** when issues arise.
+
+* **Heuristic Evaluation**: The evaluation found that **TripAdvisor** excels at guiding users through the site but lacks **error prevention and assistance** during crucial moments.
+
+* **User Preferences**: Users want **a simple and intuitive experience**, where the application helps them navigate seamlessly, particularly during critical actions such as booking or checkout. They also desire **cross-platform access**, ensuring the app is available on various devices.
+
+* **Personas and Scenarios**: Confirmed that users value **clear navigation** and **robust error support**, emphasizing ease of use in their day-to-day engagement with local events.
+
+* **Sketches and Diagrams**: Designed features focus on **user control** and **error handling mechanisms** to enhance the overall user experience and ensure smooth interactions with the app.
 
 [Full phase I report](phaseI/)
 
