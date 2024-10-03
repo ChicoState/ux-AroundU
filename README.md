@@ -10,9 +10,9 @@
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
-*Jesus Velazquez:Contributed to early sketches, conducted analysis and evaluations, and worked on wireframes, prototypes, and script development.
-*Tyler Rodgers: Participated in analysis, helped with wireframe creation, and supported prototype and script design.
-*Jameson White: Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building and scriptwriting.
+* **Jesus Velazquez:Contributed to early sketches, conducted analysis and evaluations, and worked on wireframes, prototypes, and script development.
+* **Tyler Rodgers: Participated in analysis, helped with wireframe creation, and supported prototype and script design.
+* **Jameson White: Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building and scriptwriting.
 
 # User-Centered Design Artifacts
  
