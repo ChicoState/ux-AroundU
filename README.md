@@ -29,7 +29,7 @@
 
 * **User Preferences**: Users want **a simple and intuitive experience**, where the application helps them navigate seamlessly, particularly during critical actions such as booking or checkout. 
 
-* **Personas and Scenarios**: Confirmed that users value **clear navigation** and **robust error support**, emphasizing ease of use in their day-to-day engagement with local events.
+* **Personas and Scenarios**: Confirmed that users value **clear navigation** and **robust error support**, emphasizing ease of use in their day to day engagement with local events.
 
 * **Sketches and Diagrams**: Designed features focus on **user control** and **error handling mechanisms** to enhance the overall user experience and ensure smooth interactions with the app.
 
