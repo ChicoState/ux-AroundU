@@ -23,11 +23,11 @@
 
 **Executive Summary**
 
-* Competitive Analysis: Reviewed TripAdvisor, noting its minimalist app/website design, effective navigation, and ease of use. However, it offers limited user control during checkout and lacks sufficient error handling.
-Heuristic Evaluation: Highlighted TripAdvisor’s strong site navigation but exposed weaknesses in error prevention and recovery.
-* User Preferences: Users desire more control and assistance during critical moments, especially at checkout.
-* Personas and Scenarios: Confirmed the importance of clear navigation and robust error support for users.
-* Sketches and Diagrams: Implemented designs with enhanced user control and better error handling mechanisms.
+* **Competitive Analysis**: Reviewed **TripAdvisor**, noting its **minimalist** app/website design, **effective navigation**, and ease of use. However, it offers **limited user control** during checkout and lacks sufficient **error handling**.  
+* **Heuristic Evaluation**: Highlighted **TripAdvisor’s** strong site navigation but exposed weaknesses in **error prevention** and **recovery**.  
+* **User Preferences**: Users desire **more control** and **assistance** during critical moments, especially at checkout.  
+* **Personas and Scenarios**: Confirmed the importance of **clear navigation** and **robust error support** for users.  
+* **Sketches and Diagrams**: Implemented designs with **enhanced user control** and better **error handling mechanisms**.
 
 [Full phase I report](phaseI/)
 
