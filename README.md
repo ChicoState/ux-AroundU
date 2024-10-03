@@ -23,7 +23,7 @@
 
 **Executive Summary**
 
-* **Competitive Analysis**: **TripAdvisor** offers a **minimalist app/website** with a user-friendly design that makes it easy for people to find local events and information. It’s effective in displaying where users are on the site and presenting clear information. However, the app does not provide enough **control during the checkout process** and could offer **better support** when issues arise.
+* **Competitive Analysis**: **TripAdvisor** offers a **minimalist app/website** with a user friendly design that makes it easy for people to find local events and information. It’s effective in displaying where users are on the site and presenting clear information. However, the app does not provide enough **control during the checkout process** and could offer **better support** when issues arise.
 
 * **Heuristic Evaluation**: The evaluation found that **TripAdvisor** excels at guiding users through the site but lacks **error prevention and assistance** during crucial moments.
 
