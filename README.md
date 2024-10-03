@@ -23,15 +23,21 @@
 
 **Executive Summary**
 
-* **Competitive Analysis**: **TripAdvisor** offers a **minimalist app/website** with a user friendly design that makes it easy for people to find local events and information. It’s effective in displaying where users are on the site and presenting clear information. However, the app does not provide enough **control during the checkout process** and could offer **better support** when issues arise.
+**Competitive analysis** revealed several opportunities to meet user needs:
+- **Local events discovery**: Users struggle to find real-time events nearby that match their interests.
+- **User control**: Apps often provide limited customization and error recovery options.
 
-* **Heuristic Evaluation**: The evaluation found that **TripAdvisor** excels at guiding users through the site but lacks **error prevention and assistance** during crucial moments.
+**Heuristic evaluation** identified strengths in site navigation, but weaknesses in:
+- **User control** during important actions like event booking.
+- **Error prevention** and recovery when mistakes are made.
 
-* **User Preferences**: Users want **a simple and intuitive experience**, where the application helps them navigate seamlessly, particularly during critical actions such as booking or checkout. 
+**New personas and scenarios** highlighted:
+- The need for a simple, accessible interface.
+- A platform that easily connects users to events based on location and preferences.
 
-* **Personas and Scenarios**: Confirmed that users value **clear navigation** and **robust error support**, emphasizing ease of use in their day to day engagement with local events.
-
-* **Sketches and Diagrams**: Designed features focus on **user control** and **error handling mechanisms** to enhance the overall user experience and ensure smooth interactions with the app.
+**Sketches and diagrams** show the following design features:
+- **Improved event filtering** for better personalization.
+- **Error handling mechanisms** to enhance user experience and prevent mistakes.
 
 [Full phase I report](phaseI/)
 
