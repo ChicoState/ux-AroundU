@@ -6,8 +6,11 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
-From class notes: Research methods = Competitive Analyis and Hueristic Evaluation
+For our analysis on AroundU, we used a variety of methods to understand current event discovery platforms and find areas for improvement. Our first approach was competitive analysis, where we looked at several apps in the event discovery space to evaluate their strengths and weaknesses. The UX team focused on key competitors like Yelp and TripAdvisor, each known for specific features. We categorized these platforms based on criteria such as strengths, weaknesses, quality, and price. Although we also considered the types of platforms and features offered, these factors played a smaller role in the overall evaluation. 
+
+  
+
+We also conducted a heuristic evaluation, focusing on TripAdvisor for a more detailed analysis after the competitive review. The goal of this evaluation was to examine usability factors like app controls, visual appeal, user freedom, and error prevention. TripAdvisor was chosen for its solid interface and similarity to AroundU's initial ideas. In this evaluation, we scored TripAdvisor on a scale from 1 to 10 in various areas: visibility of system status, match with real-world expectations, user control and freedom, consistency and standards, error prevention, ease of use, aesthetic design, support for error recovery, and help documentation. We took notes to identify strengths and weaknesses in each area. 
 
 ## Findings
 
