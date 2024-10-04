@@ -20,7 +20,7 @@ During our hueristic evaluation, we found that TripAdvisor scored very well in k
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Our analysis of AroundU showed a clear opportunity to help users find local, community-focused activities, especially compared to competitors like Yelp and TripAdvisor, which focus on popular events and places. We believe AroundU can attract a diverse group of users, including university students, travelers, young professionals, and families. To compete well, the app needs to be easy to navigate and visually appealing, with features that let users quickly discover unique local events and get personalized notifications. However, it's important to note that our insights are based on assumptions since we haven't gathered data from real users yet. Additionally, our limited experience in competitive analysis may affect our findings, and the wide range of potential users means their preferences may vary, requiring further research and feedback for ongoing improvements.
 
 ## Caveats
 
