@@ -22,6 +22,24 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
+Competitive analysis revealed opportunities to improve the event discovery and planning market by addressing several gaps:  
+- **Yelp:** While strong in popular cities and for restaurant reviews, it lacks coverage of events, particularly in smaller or niche communities.  
+- **TripAdvisor:** Good for planning major trips and visiting tourist hotspots, but weak in highlighting smaller, localized events and activities.  
+- **Meetup:** Effective for organizing and joining events, but has limited variety and options in smaller towns, leaving opportunities for more local, community-driven experiences.  
+
+Heuristic evaluation identified strengths in TripAdvisor’s platform but also revealed areas for improvement:  
+- **Searching:** While TripAdvisor provides good system feedback, users may find it challenging to search for local or niche events, especially those looking for specific categories like concerts or festivals.  
+- **Browsing categories:** Users lack sufficient control over browsing event categories, which limits the ability to quickly find relevant events or sort by event types. Improved filtering options would better align with user goals like finding events in range or seeing how many people are attending.
+
+New personas and scenarios highlight key user experience insights for Around U:  
+- **Integrated platform:** Around U combines local event discovery with social and cultural activities, providing users with diverse experiences.  
+- **Simplified exploration:** Users can easily uncover unique, lesser-known events tailored to their interests, offering an alternative to mainstream options.  
+- **Enhanced customization:** The app gives users more options to filter events based on their personal preferences, helping them avoid irrelevant activities and crowded venues.
+
+Sketches and diagrams illustrate initial concepts:  
+- Visual flow for discovering and attending soccer events  
+- Search with event-specific results and easy navigation  
+- User login, seat selection, and seamless ticket purchasing
 
 
 
