@@ -33,8 +33,9 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 
 - **Heuristic evaluation identified strengths in TripAdvisor’s platform but also revealed areas for improvement:**
 
-`Searching:` While TripAdvisor provides good system feedback, users may find it challenging to search for local or niche events, especially those looking for specific categories like concerts or festivals.  
-`Browsing categories:` Users lack sufficient control over browsing event categories, which limits the ability to quickly find relevant events or sort by event types. Improved filtering options would better align with user goals like finding events in range or seeing how many people are attending.
+   - **Searching:** While TripAdvisor provides good system feedback, users may find it challenging to search for local or niche events, especially those looking for specific categories like concerts or festivals.
+   - **Browsing categories:** Users lack sufficient control over browsing event categories, which limits the ability to quickly find relevant events or sort by event types. Improved filtering options would better align with user goals like finding events in range or seeing how many people are attending.
+
 
 
 New personas and scenarios highlight key user experience insights for Around U:
