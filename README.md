@@ -38,11 +38,12 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 
 
 
-New personas and scenarios highlight key user experience insights for Around U:
+- **New personas and scenarios highlight key user experience insights for Around U:**
 
-- **Integrated platform:** Around U combines local event discovery with social and cultural activities, providing users with diverse experiences.
-- **Simplified exploration:** Users can easily uncover unique, lesser-known events tailored to their interests, offering an alternative to mainstream options.
-- **Enhanced customization:** The app gives users more options to filter events based on their personal preferences, helping them avoid irrelevant activities and crowded venues.
+   - **Integrated platform:** Around U combines local event discovery with social and cultural activities, providing users with diverse experiences.
+   - **Simplified exploration:** Users can easily uncover unique, lesser-known events tailored to their interests, offering an alternative to mainstream options.
+   - **Enhanced customization:** The app gives users more options to filter events based on their personal preferences, helping them avoid irrelevant activities and crowded venues.
+
 
 Sketches and diagrams illustrate initial concepts:
 
