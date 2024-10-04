@@ -15,12 +15,10 @@ Through competitive analysis, our team found that there are several products in 
 
 During our hueristic evaluation, we found that TripAdvisor scored very well in key areas such as 'visibility of system status' with 9, 'match between system and the real world' with 9, and 'aesthetic and minimalist design' with 9 thanks to its clear navigation, layout, and simple design. In order for AroundU to be a comptetitor, we found that it will also need to be very intuitive for the user, with a aesthetic and pleasent design.
 
-Personas and scenarios provided further insight into why users would use AroundU. We found that users want easy-to-use features that allow them to find a wide range of unique events around them.
-
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Some caveats we identified in our research are that we have not yet gathered data from actual users, and much of our analysis is based on assumptions about the target demographic. Additionally, our team has limited experience conducting competitive analysis and heuristic evaluations, which may have influenced our findings. Another limitation is the broad range of potential users for AroundU, especially since people new to an area or community can vary widely in preferences and needs.
