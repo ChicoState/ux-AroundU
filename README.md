@@ -45,11 +45,11 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
    - **Enhanced customization:** The app gives users more options to filter events based on their personal preferences, helping them avoid irrelevant activities and crowded venues.
 
 
-Sketches and diagrams illustrate initial concepts:
+- **Sketches and diagrams illustrate initial concepts:**
 
-- Visual flow for discovering and attending soccer events
-- Search with event-specific results and easy navigation
-- User login, seat selection, and seamless ticket purchasing
+   - Visual flow for discovering and attending soccer events
+   - Search with event-specific results and easy navigation
+   - User login, seat selection, and seamless ticket purchasing
 
 
 
