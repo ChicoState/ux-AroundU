@@ -9,8 +9,6 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 * [Jameson White](https://jameson-portfolio-link.com) - Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
