@@ -23,7 +23,7 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 
 **Executive Summary**
 
-- 
+Competitive analysis identified chances to reshape the event discovery market by addressing important customer needs
  - `Yelp:` While strong in popular cities and for restaurant reviews, it lacks coverage of events, particularly in smaller or niche communities.
  - `TripAdvisor:` Good for planning major trips and visiting tourist hotspots, but weak in highlighting smaller, localized events and activities.
  - `Meetup:` Effective for organizing and joining events, but has limited variety and options in smaller towns, leaving opportunities for more local, community driven experiences.
