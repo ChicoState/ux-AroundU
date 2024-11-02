@@ -10,6 +10,8 @@ For this phase of our analysis on AroundU, we conducted a cognitive walkthrough 
 The evaluator used the document [AroundU Cognitive Walkthrough](../Cognitive%20Walkthrough%20-%20AroundU(Cruz).pdf)
  following the streamlined two-question approach using the app's wireframe. This document details the steps for each task, the persona's goals, and questions to ask at each stage. The questions focused on whether the user understood each action, if there was adequate feedback for their choices, and any points of confusion or hesitation. Notes were taken on navigation confusion, lack of feedback cues, and areas where clearer guidance was needed.
 
+We also received informal feedback of AroundU. We gathered input from Software Engineering students (n=65) who were given a demonstration of the app. Their feedback focused on initial impressions, ease of navigation, and the intuitiveness of key features, such as viewing upcoming events, understanding event details, and navigating back to the main dashboard. During this process, users were encouraged to express any points of confusion, advice on design choices, and areas that felt unintuitive.
+
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
