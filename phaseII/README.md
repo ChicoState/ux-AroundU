@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The AroundU app is designed to help users discover local events by showing relevant event details like time, date, and distance from the user’s location, with the goal of connecting users to local activities. In phase II we aimed to address usability concerns identified in Phase I and from recent cognitive walkthroughs and informal feedback. The key objectives were to enhance user navigation, improve visual aids, improve event filtering options, and ensure that event hosts have clear control over event information.
 
 ## Methods
 
