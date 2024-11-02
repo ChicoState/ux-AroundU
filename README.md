@@ -52,10 +52,11 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- **Cognitive Walkthrough:**  
+  Engaged a UX evaluator to assess user navigation using a persona, identifying key challenges in accessing features like the event map and securing tickets.
+
+- **Informal Feedback:**  
+  Collected insights from 65 Software Engineering students regarding ease of navigation and intuitiveness of features during a live demonstration.
 
 [Full phase II report](phaseII/)
 
