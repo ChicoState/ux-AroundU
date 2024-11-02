@@ -52,11 +52,18 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 
 **Executive Summary**
 
-- **Cognitive Walkthrough:**  
-  Engaged a UX evaluator to assess user navigation using a persona, identifying key challenges in accessing features like the event map and securing tickets.
+- Cognitive Walkthrough highlighted a need for clearer prompts and visual cues to guide users
+   - Users struggled to locate the map feature, indicating a need for clearer visual prompts
+   - Lack of confirmation after ticket purchases created uncertainty, highlighting the importance of feedback messages
 
-- **Informal Feedback:**  
-  Collected insights from 65 Software Engineering students regarding ease of navigation and intuitiveness of features during a live demonstration.
+- Informal Feedback provided ideas for new features and improvements  
+   - Users sought a more intuitive navigation experience, particularly for accessing event details
+   - Participants requested features like expiration dates for events, support for recurring events, and the ability to filter searches using keywords
+
+- **Wireframes provide a visual representation of user interactions**
+  - Clearer prompts and visual cues guide users throughout the experience
+  - Enhanced visibility for the map feature ensures easy access and navigation
+  - Feedback messages after ticket purchases confirm actions and reduce uncertainty
 
 [Full phase II report](phaseII/)
 
