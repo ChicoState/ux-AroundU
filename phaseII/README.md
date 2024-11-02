@@ -7,8 +7,7 @@ The AroundU app is designed to help users discover local events by showing relev
 ## Methods
 
 For this phase of our analysis on AroundU, we conducted a cognitive walkthrough with an external UX evaluator, a CSCI431W student (n=1). The evaluator followed a persona named Cruz to guide their experience through the app. The walkthrough involved assessing how well users could complete specific tasks without confusion, such as locating events on a map, filtering events by category, and securing a ticket.
-The evaluator used the document [AroundU Cognitive Walkthrough](../Cognitive%20Walkthrough%20-%20AroundU(Cruz).pdf)
- following the streamlined two-question approach using the app's wireframe. This document details the steps for each task, the persona's goals, and questions to ask at each stage. The questions focused on whether the user understood each action, if there was adequate feedback for their choices, and any points of confusion or hesitation. Notes were taken on navigation confusion, lack of feedback cues, and areas where clearer guidance was needed.
+The evaluator used the document [AroundU Cognitive Walkthrough](../Cognitive%20Walkthrough%20-%20AroundU(Cruz).pdf) following the streamlined two-question approach using the app's wireframe. This document details the steps for each task, the persona's goals, and questions to ask at each stage. The questions focused on whether the user understood each action, if there was adequate feedback for their choices, and any points of confusion or hesitation. Notes were taken on navigation confusion, lack of feedback cues, and areas where clearer guidance was needed.
 
 We also received informal feedback of AroundU. We gathered input from Software Engineering students (n=65) who were given a demonstration of the app. Their feedback focused on initial impressions, ease of navigation, and the intuitiveness of key features, such as viewing upcoming events, understanding event details, and navigating back to the main dashboard. During this process, users were encouraged to express any points of confusion, advice on design choices, and areas that felt unintuitive.
 
@@ -20,8 +19,8 @@ During informal feedback, we asked, “Do you see yourself using this app in you
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Our analysis of AroundU showed the need for improved navigation, feedback, and visual organization. Wireframes should be updated to include clear prompts for accessing the map, confirmation messages for bookings, and advanced filtering options, such as list views and categorized icons. Incorporating the Google API will improve event discovery by adding markers, info windows, and location indicators. Together, these improvements can create a more organized, user friendly experience, making AroundU a valuable tool for daily event discovery.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+One limitation of our research is sample bias, as our feedback mainly came from computer science students. This demographic may not fully represent the diverse user base of AroundU, which includes families, young professionals, and community newcomers. The technological background of our participants means that our insights may be skewed toward users who are already comfortable with app navigation, potentially overlooking the needs and challenges faced by less technical individuals. Expanding testing to include a wider range of users would provide a more broad understanding of AroundU’s usability and accessibility.
