@@ -65,6 +65,7 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
   - Enhanced visibility for the map feature ensures easy access and navigation
   - Feedback messages after ticket purchases confirm actions and reduce uncertainty
 
+
 [Full phase II report](phaseII/)
 
 # Phase III: Prototypes and User Testing
