@@ -7,7 +7,7 @@ The AroundU app is designed to help users discover local events by showing relev
 ## Methods
 
 For this phase of our analysis on AroundU, we conducted a cognitive walkthrough with an external UX evaluator, a CSCI431W student (n=1). The evaluator followed a persona named Cruz to guide their experience through the app. The walkthrough involved assessing how well users could complete specific tasks without confusion, such as locating events on a map, filtering events by category, and securing a ticket.
-The evaluator used the document [AroundU Cognitive Walkthrough](Cognitive Walkthrough - AroundU(Cruz).pdf/)
+The evaluator used the document [AroundU Cognitive Walkthrough](../Cognitive%20Walkthrough%20-%20AroundU(Cruz).pdf)
  following the streamlined two-question approach using the app's wireframe. This document details the steps for each task, the persona's goals, and questions to ask at each stage. The questions focused on whether the user understood each action, if there was adequate feedback for their choices, and any points of confusion or hesitation. Notes were taken on navigation confusion, lack of feedback cues, and areas where clearer guidance was needed.
 
 ## Findings
