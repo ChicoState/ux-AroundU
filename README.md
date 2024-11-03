@@ -4,7 +4,7 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 
 ## UX Team Members
 
-* [Jesus Velazquez](https://jesus-portfolio-link.com) - Contributed to early sketches, conducted analysis and evaluations, and worked on wireframes, prototypes, and script development.
+* [Jesus Velazquez](https://jesus-portfolio-link.com) - Contributed to early sketches, conducted analysis, evaluations, and worked on wireframes/prototypes.
 * [Tyler Rodgers](https://tyler-portfolio-link.com) - Participated in analysis, helped with wireframe creation, and supported prototype and script design.
 * [Jameson White](https://jameson-portfolio-link.com) - Assisted with evaluation tasks, collaborated on wireframes, and contributed to prototype building
 
