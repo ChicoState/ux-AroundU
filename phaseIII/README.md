@@ -6,7 +6,7 @@ In Phase III, we designed a usability evaluation to test the AroundU prototype a
 
 ## Methods
 
-For this phase of our analysis on AroundU, we conducted a usibility test. We asked each user to complete three tasks which were creating an event, finding events on the map, and purchasing a ticket.
+For this phase of our analysis on AroundU, we conducted a usibility test. We asked each user to complete three tasks which were creating an event, finding events on the map, and purchasing a ticket. After each task was finished the moderator would check if they successfully completed the task by marking a 'Yes' or 'No' checkbox. Then the user was asked to rate the difficulty of the task on a scale of 1 to 5, where 1 is 'very difficult' and 5 is 'very easy'. Finally the user was asked to explain why they rated the score as they did.
 
 ## Findings
 
