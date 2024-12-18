@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+In Phase III, we designed a usability evaluation to test the AroundU prototype and discover areas for improvement based on user interactions. The evaluation focused on completing key tasks such as creating/hosting an event, finding events on the map, and purchasing tickets. Insights from this phase will guide more refinements to improve the user experience and ensure the app effectively connects users to local events.
 
 ## Methods
 
