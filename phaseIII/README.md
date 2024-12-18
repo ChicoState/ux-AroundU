@@ -6,7 +6,7 @@ In Phase III, we designed a usability evaluation to test the AroundU prototype a
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+For this phase of our analysis on AroundU, we conducted a usibility test. We asked each user to complete three tasks which were creating an event, finding events on the map, and purchasing a ticket.
 
 ## Findings
 
