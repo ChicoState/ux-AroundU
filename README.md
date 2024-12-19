@@ -85,7 +85,7 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
   - These additions could enhance user engagement, improve communication, and streamline navigation, aligning the app with user expectations for modern event-planning tools
  
 - Limitations
- - The small sample size and specific tasks may not fully capture the needs or experiences of all users
- - This highlights the need for more research to validate findings and make better improvements work
+  - The small sample size and specific tasks may not fully capture the needs or experiences of all users
+  - This highlights the need for more research to validate findings and make better improvements work
    
 [Full phase III report](phaseIII/)
