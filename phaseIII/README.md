@@ -16,7 +16,11 @@ Our approach was summative and meant to evaluate the usability and effectiveness
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Our usability evaluation of AroundU provided valuable insights into both areas for improvement and affirmed design elements.
+
+Participants highlighted the need for clearer feedback mechanisms. This includes confirming actions like creating a new event to reduce confusion. Additionally, users desired a more intuitive navigation making sure one can easily return to previous pages without losing context. Addressing these issues will help improve the user experience and make interactions more seamless.
+
+Main design features, such as the straightforward layout, and intuitive task flows, recieved positive feedback. Participants enjoyed the simplicity of creating events, searching for results, and purchasing tickets. They described these actions as "easy" and "very simple". Users appreciated the clear organization of event information and the design confirming that these should remain as is. Together these findings emphasize both the oppurtunites for refinement and the strengths of AroundU.  
 
 ## Caveats
 
