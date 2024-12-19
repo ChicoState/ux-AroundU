@@ -72,9 +72,20 @@ AroundU is an app that allows users to browse upcoming and ongoing local events.
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- Strengths of the App
+  - Users found tasks like creating events, finding events on the map, and purchasing tickets easy and intuitive, with most tasks rated highly
+  - This confirms the app’s core functionality is effective, providing a strong foundation for further development
 
+- Weakness of the App
+  - Users suggested making buttons larger, enhancing the visual design, and improving navigation to view event locations on the map before ticket purchase
+  - These changes will improve usability, accessibility, and the overall user experience by making interactions more seamless and visually appealing
+
+- Future Features
+  - Requested features included a group chat, contact options for event hosts, a search bar on the map page, and notifications for updates
+  - These additions could enhance user engagement, improve communication, and streamline navigation, aligning the app with user expectations for modern event-planning tools
+ 
+- Limitations
+ - The small sample size and specific tasks may not fully capture the needs or experiences of all users
+ - This highlights the need for more research to validate findings and make better improvements work
+   
 [Full phase III report](phaseIII/)
